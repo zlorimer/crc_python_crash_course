@@ -18,7 +18,6 @@ if __name__ == '__main__': # this line ensures we are in the main application
             print('Getting warmer...')
         else:
             print('Try again')
-            print(number)
 
         if tries == 5:
             game_over = True
